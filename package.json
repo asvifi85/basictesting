@@ -1,0 +1,19 @@
+{
+  "name": "typescript-jasmine",
+  "version": "1.0.0",
+  "description": "Hello world for both TypeScript and Jasmine.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessgusclark/typescript-jasmine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessgusclark/typescript-jasmine/issues"
+  },
+  "homepage": "https://github.com/jessgusclark/typescript-jasmine#readme"
+}
